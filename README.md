@@ -4,7 +4,7 @@
 - Maven 3 or later
 - MySQL 5.6 or later
 - or nai pata
-- - bilkul nai pata
+- - bilkul nai pata bhai kya bataye
 ### Technologies 
 - Spring MVC
 - Spring Security
